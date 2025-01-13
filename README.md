@@ -7,7 +7,6 @@ Implementações de programas escritos em **MIPS Assembly**, abordando diferente
 ## Estrutura do Repositório
 
 ### 1. Contador
-**Descrição:**
 - Implementa um contador simples em **MIPS Assembly**.
 
 [Caminho no repositório: `Contador/`]
@@ -15,7 +14,6 @@ Implementações de programas escritos em **MIPS Assembly**, abordando diferente
 ---
 
 ### 2. Média Aritmética com Syscall
-**Descrição:**
 - Calcula a média aritmética de um conjunto de números fornecidos pelo usuário.
 - Utiliza **syscalls** para entrada e saída de dados.
 
@@ -24,7 +22,6 @@ Implementações de programas escritos em **MIPS Assembly**, abordando diferente
 ---
 
 ### 3. Simulação de Vetor
-**Descrição:**
 - Simula a manipulação de um vetor em **MIPS Assembly**.
 - Demonstra conceitos de manipulação de memória e acesso indexado em Assembly.
 
@@ -33,7 +30,6 @@ Implementações de programas escritos em **MIPS Assembly**, abordando diferente
 ---
 
 ### 4. Syscall de Vetor
-**Descrição:**
 - Realiza operações com um vetor utilizando **syscalls** para entrada e saída.
 - Permite que o usuário insira valores em um vetor, armazene-os na memória e, em seguida, exiba os valores na saída padrão.
 - Exemplo prático de integração entre entrada/saída e manipulação de memória em Assembly.
