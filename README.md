@@ -38,6 +38,6 @@ Implementações de programas escritos em **MIPS Assembly**, abordando diferente
 - Permite que o usuário insira valores em um vetor, armazene-os na memória e, em seguida, exiba os valores na saída padrão.
 - Exemplo prático de integração entre entrada/saída e manipulação de memória em Assembly.
 
-[Caminho no repositório: `Syscall_de_Vetor/`]
+[Caminho no repositório: `Syscall de Vetor/`]
 
 ---
